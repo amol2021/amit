@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C815-82B0
+
+ Directory of C:\Users\User\Desktop\amol
+
+25-03-2021  14:25    <DIR>          .
+25-03-2021  14:25    <DIR>          ..
+25-03-2021  14:25                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,139,910,144 bytes free
